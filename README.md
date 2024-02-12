@@ -1,2 +1,2 @@
 # day1
-Learn Python
+Just writing down all of the beginning code I'll be working on.
